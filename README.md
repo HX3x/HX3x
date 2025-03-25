@@ -12,7 +12,7 @@ I'm Austin Chenevare , a dedicated Smart Contract Developer & Security Researche
 
 <details>
   <summary>More about me</summary>
-  Name: Bugs0x1<br>
+  Name: Austin Chenevare <br>
   From: USA<br>
   Role: Smart Contract Developer | Security Researcher | Blockchain Auditor<br>
   I bring experience in:<br>
