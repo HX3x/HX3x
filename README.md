@@ -20,7 +20,7 @@ I'm Austin Chenevare , a dedicated Smart Contract Developer & Security Researche
   - Blockchain Development
   - Bug Hunting
   - Vulnerability Assessment<br>
-  Excited to deepen my knowledge in Smart Contract Vulnerabilities and all things blockchain-related! Reach out to me at bugs0x1@proton.me
+  Excited to deepen my knowledge in Smart Contract Vulnerabilities and all things blockchain-related! Reach out to me at austincctin@proton.me
 </details> 
 
 <br>
