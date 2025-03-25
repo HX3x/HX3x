@@ -1,7 +1,7 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Smart+Contract+Developer" alt="Typing SVG" /> </a> </div> <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15"> <h2 align="left"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </h2>
+p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Smart+Contract+Developer" alt="Typing SVG" /> </a> </div> <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15"> <h2 align="left"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </h2>
 I'm bugs0x1 a Smart Contract Developer & Security Researcher, and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in smart contract auditing, vulnerability assessment, and blockchain development, my goal is to safeguard digital assets and contribute to a more secure online community.
 <details> <summary>More about me</summary>
-Name: Bugs0x1
+Name: Austin Chenevare aka HX3
 From: USA
 Smart Contract Developer | Security Researcher | Blockchain Auditor
 I have experience in smart contract auditing, blockchain development, bug hunting, and vulnerability assessment.
