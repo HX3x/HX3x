@@ -12,8 +12,8 @@ I'm H3X , a dedicated Smart Contract Security Researcher with aspirations toward
 
 <details>
   <summary>More about me</summary>
-  Name: Austin Chenevare <br>
-  From: USA<br>
+  Name: H3X <br>
+  From: anonymous <br> 
   Role: Smart Contract Developer | Security Researcher | Blockchain Auditor<br>
   I bring experience in:<br>
   - Smart Contract Auditing
