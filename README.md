@@ -8,7 +8,7 @@
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15"> 
 <h2 align="left"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </h2>
 
-I'm Austin Chenevare , a dedicated Smart Contract Developer & Security Researcher with aspirations towards becoming a Cybersecurity Specialist. Driven by an unyielding passion for technology, I specialize in smart contract auditing, vulnerability assessments, and blockchain development. My ultimate goal is to protect digital assets and contribute meaningfully to a secure and trustful online ecosystem.
+I'm H3X , a dedicated Smart Contract Security Researcher with aspirations towards becoming a Cybersecurity Specialist. Driven by an unyielding passion for technology, I specialize in smart contract auditing, vulnerability assessments, and blockchain development. My ultimate goal is to protect digital assets and contribute meaningfully to a secure and trustful online ecosystem.
 
 <details>
   <summary>More about me</summary>
