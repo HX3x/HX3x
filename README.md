@@ -55,19 +55,17 @@ I'm H3X , a dedicated Smart Contract Security Researcher with aspirations toward
   </div> 
 </div>
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2> 
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+![HX3x's Stats](https://github-readme-stats.vercel.app/api?username=HX3x&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![HX3x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HX3x&theme=tokyonight&hide_border=true)
+
+![HX3x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HX3x&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+
+
 
 <h2 id="inspiration" align=''> My Motivation </h2>
 <p align="center">
   <i>"Never give up. Never back down."</i>
-</p>
-<p align="center">
-  It's more than just a statement; it’s a mindset that guides my journey through challenges and strives for excellence in the field of technology and cybersecurity. 
-</p>
 
-### Thank you for visiting my profile! Let's connect and innovate together!
-
---- 
-
-Feel free to customize any part of this text to suit your style or preferences!
+### Thank you for visiting my profile! Let's connect and innovate 
