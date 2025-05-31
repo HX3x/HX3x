@@ -74,10 +74,11 @@ I'm ** [H3X] *, a blockchain developer & smart contract auditor, and aspiring Cy
 </div>
 
 ---
-[![My Awesome Stats👾](https://awesome-github-stats.azurewebsites.net/user-stats/HX3x?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+![HX3x's Stats](https://github-readme-stats.vercel.app/api?username=HX3x&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
-![HX3x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HX3x&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![HX3x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HX3x&theme=highcontrast&hide_border=true)
 
+![HX3x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HX3x&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
