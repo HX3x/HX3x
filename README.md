@@ -1,4 +1,6 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+
+![IMG_1728](https://github.com/user-attachments/assets/6fbc7030-9b40-46cf-b0cf-1b9d9a003dba)
+![7v54](https://github.com/user-attachments/assets/2eb5d221-b91c-41d0-a99b-7eba48a74b88)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
