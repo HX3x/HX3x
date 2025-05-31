@@ -1,6 +1,5 @@
 
-![IMG_1728](https://github.com/user-attachments/assets/6fbc7030-9b40-46cf-b0cf-1b9d9a003dba)
-![7v54](https://github.com/user-attachments/assets/2eb5d221-b91c-41d0-a99b-7eba48a74b88)
+![7v54](https://github.com/user-attachments/assets/35ed6ab4-2781-49c0-a95b-064b2eaf1a06)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
