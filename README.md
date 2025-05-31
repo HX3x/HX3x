@@ -63,8 +63,6 @@ I'm ** [H3X] *, a blockchain developer & smart contract auditor, and aspiring Cy
       <img src="https://img.shields.io/badge/Truffle-FB3B08?style=for-the-badge&logo=truffle&color=000000" alt="Truffle" />
       <img src="https://img.shields.io/badge/Metamask-FC6D24?style=for-the-badge&logo=metamask&color=000000" alt="Metamask" />
       <img src="https://img.shields.io/badge/Web3.js-FFFFFF?style=for-the-badge&logo=web3.js&color=000000" alt="Web3.js" />
-      <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="Node.js" />
-      <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&color=000000" alt="ExpressJS" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
