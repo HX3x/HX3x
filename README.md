@@ -42,11 +42,8 @@ I'm ** [H3X] *, a blockchain developer & smart contract auditor, and aspiring Cy
 
 👉 Managing Tech Communities & Content Creator in the blockchain space.
 
-👉 Writing Some Useful Tools for Smart Contract Development & Auditing.
 
-👉 Building & Contributing To Open Source Blockchain Projects.
-
-👉 Currently Learning Mobile Web3 Development & DeFi Concepts.
+👉 Currently Learning  Web3 Development in solidity & DeFi Concepts.
 
 `Updating:` Journey to professional, smart contract auditor.
 
@@ -63,13 +60,10 @@ I'm ** [H3X] *, a blockchain developer & smart contract auditor, and aspiring Cy
       <img src="https://img.shields.io/badge/Hardhat-00B0F0?style=for-the-badge&logo=hardhat&color=000000" alt="Hardhat" />
       <img src="https://img.shields.io/badge/Truffle-FB3B08?style=for-the-badge&logo=truffle&color=000000" alt="Truffle" />
       <img src="https://img.shields.io/badge/Metamask-FC6D24?style=for-the-badge&logo=metamask&color=000000" alt="Metamask" />
-      <img src="https://img.shields.io/badge/Web3.js-FFFFFF?style=for-the-badge&logo=web3.js&color=000000" alt="Web3.js" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" /
       <img src="https://img.shields.io/badge/Audit-7CFC00?style=for-the-badge&color=000000" alt="Audit" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
+      <img 
   </div>
 </div>
 
@@ -85,5 +79,5 @@ I'm ** [H3X] *, a blockchain developer & smart contract auditor, and aspiring Cy
 </p>
 
 <p align="center">
-<a>🌱</a>
+<a>🌱 Never Give Up </a>
 </p>
