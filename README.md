@@ -79,5 +79,5 @@ I'm ** [H3X] *, a blockchain developer & smart contract auditor, and aspiring Cy
 </p>
 
 <p align="center">
-<a>🌱 Never Give Up </a>
+<a>🌱 </a>
 </p>
